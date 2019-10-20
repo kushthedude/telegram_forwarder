@@ -72,3 +72,7 @@ Install the necessary python dependencies by moving to the project directory and
 `pip3 install -r requirements.txt`.
 
 This will install all necessary python packages.
+
+### Contributors
+
+Made with :heart: by [Kush](github.com/kushthedude)
